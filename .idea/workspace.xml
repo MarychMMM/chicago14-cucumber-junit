@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95b90bda-2e4f-4885-961c-1d9d51a9187a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extentReport/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/extentReport/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/mylogs.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/mylogs.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/runners/CukesRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runners/CukesRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-reports/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-reports/report.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cukesreport.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cukesreport.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/runners/CukesRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/runners/CukesRunner.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583687298357</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added smth">
+      <created>1583687934886</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1583687934886</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
