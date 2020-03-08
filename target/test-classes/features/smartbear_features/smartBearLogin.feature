@@ -9,7 +9,7 @@ Feature: Smartbear login feature verifications
   Password: tester
   2- User should see "Welcome, Tester!" displayed when logged in.
 
-  @positiveLoginSB
+  @sm
   Scenario: Verifying login with using authenticated data
     When User is on home page
     And User should be able to enter correct username
