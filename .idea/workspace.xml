@@ -2,37 +2,73 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95b90bda-2e4f-4885-961c-1d9d51a9187a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/InstagramAPI/InstaTesting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/InstagramAPI/Instagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/InstagramAPI/InstagramUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/InstagramAPI/Post.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extentReport/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/extentReport/report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/mylogs.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/mylogs.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/runners/CukesRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runners/CukesRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cucumber-reports/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-reports/report.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cukesreport.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cukesreport.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/runners/CukesRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/runners/CukesRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/configuration.properties" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectId" id="1YpBO7nBG6sjwlcTK8AL9EDMxmf" />
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YpBO7nBG6sjwlcTK8AL9EDMxmf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Application.InstaTesting">
+    <configuration name="InstaTesting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InstagramAPI.InstaTesting" />
+      <module name="chicago14-cucumber-junit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InstagramAPI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestingInstagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="apiTests.Instagram.TestingInstagram" />
+      <module name="chicago14-cucumber-junit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="apiTests.Instagram.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CukesRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="chicago14-cucumber-junit" />
       <extension name="coverage">
@@ -50,6 +86,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InstaTesting" />
+        <item itemvalue="Application.TestingInstagram" />
         <item itemvalue="JUnit.CukesRunner" />
       </list>
     </recent_temporary>
@@ -93,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583687934886</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added smth">
+      <created>1583688930404</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1583688930404</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,7 +146,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -112,5 +159,35 @@
     <MESSAGE value="mmmmm" />
     <MESSAGE value="added smth" />
     <option name="LAST_COMMIT_MESSAGE" value="added smth" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1388" height="63" key="GridCell.Tab.0.bottom" timestamp="1583989857783">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="63" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583989857783" />
+    <state width="1388" height="3" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1583944693525" />
+    <state width="1388" height="63" key="GridCell.Tab.0.center" timestamp="1583989857783">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="63" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583989857783" />
+    <state width="1388" height="3" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1583944693524" />
+    <state width="1388" height="63" key="GridCell.Tab.0.left" timestamp="1583989857782">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="63" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583989857782" />
+    <state width="1388" height="3" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1583944693524" />
+    <state width="1388" height="63" key="GridCell.Tab.0.right" timestamp="1583989857783">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="63" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583989857783" />
+    <state width="1388" height="3" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1583944693525" />
+    <state x="113" y="1" key="SettingsEditor" timestamp="1584165084126">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="113" y="1" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1584165084126" />
+    <state x="0" y="23" key="new project wizard" timestamp="1583886194330">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="0" y="23" key="new project wizard/0.23.1440.825@0.23.1440.825" timestamp="1583886194330" />
   </component>
 </project>
